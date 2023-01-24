@@ -1,0 +1,2 @@
+/home/training/Desktop/ELDD_Harshitha_08/prog2/p2.o
+
